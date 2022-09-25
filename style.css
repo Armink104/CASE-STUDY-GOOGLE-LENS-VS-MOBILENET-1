@@ -1,0 +1,30 @@
+body
+{
+    background-image: url("nkjmkl.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.test_image_and_result
+{
+    background-color:darkturquoise;
+    width: 90%;
+}
+
+.test_image_and_result2
+{
+    background-color:rgb(255, 33, 137);
+    width: 90%;
+
+}
+
+.copy_right_footer
+{
+  position: fixed; 
+  color: white; 
+  bottom: 0; 
+  width: 100%; 
+  background-color: rgb(224, 131, 255); 
+  line-height: 3; 
+  text-align: center;
+}
